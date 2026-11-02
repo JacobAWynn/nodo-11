@@ -1,0 +1,11 @@
+{
+	"id": "montanistas-altitud-temperatura",
+	"pregunta": "Un grupo de montañistas sabe que cada vez que aumenta la altitud en 100 m, la temperatura disminuye en 1 °C. Si el grupo se encuentra a una altitud de 1.000 m, donde la temperatura es de 20 °C, ¿cuál de las siguientes expresiones les permite determinar la temperatura que habrá cuando se encuentren a 4.000 m de altitud?",
+	"respuestas": [
+		"$\\text{Temperatura}=(\\frac{\\text{Altitud}}{100})+10$",
+		"$\\text{Temperatura}=-\\text{Altitud}\\times100+30$",
+		"$\\text{Temperatura}=-(\\frac{\\text{Altitud}}{100})+30$",
+		"$\\text{Temperatura}=\\text{Altitud}\\times100+10$"
+	],
+	"respuesta-correcta": 2
+}

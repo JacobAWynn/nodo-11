@@ -1,0 +1,11 @@
+{
+	"id": "rectangulo-aumentar-lado",
+	"pregunta": "Si en un rectángulo se aumenta la longitud de uno de sus lados en 100 %, ¿Qué se puede concluir de su área?",
+	"respuestas": [
+		"Aumenta en un 50 %.",
+		"Se duplica.",
+		"No cambia.",
+		"Aumenta en 100 unidades."
+	],
+	"respuesta-correcta": 1
+}

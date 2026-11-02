@@ -1,0 +1,12 @@
+{	
+	"id": "inversiones-dolares",
+	"contexto": "Una persona que vive en Colombia tiene inversiones en dólares en Estados Unidos, y sabe que la tasa de cambio del dólar respecto al peso colombiano se mantendrá constante este mes, siendo 1 dólar equivalente a 4.000 pesos colombianos y que su inversión, en dólares, le dará ganancias del 3 % en el mismo periodo. Un amigo le asegura que en pesos sus ganancias también serán del 3 %.",
+	"pregunta": "¿La afirmación de su amigo es correcta?",
+	"respuestas": [
+		"Sí, porque, sin importar las variaciones en la tasa de cambio, la proporción en que aumenta la inversión en dólares es la misma que en pesos.",
+		"No, porque debería conocerse el valor exacto de la inversión para poder calcular la cantidad de dinero que ganará.",
+		"Sí, porque el 3 % representa una proporción fija en cualquiera de las dos monedas, puesto que la tasa de cambio permanecerá constante.",
+		"No, porque el 3 % representa un incremento, que será mayor en pesos colombianos, pues en esta moneda cada dólar representa un valor 4.000 veces mayor."
+	],
+	"respuesta-correcta": 0
+}
