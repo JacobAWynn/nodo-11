@@ -2,10 +2,10 @@
 	"id": "libreria-descuento",
 	"contexto": [
 		"En una librería se ofrece un descuento del 10 % sobre el precio original de todos los libros impresos. Juan tiene un cupón de descuento adicional del 10 % sobre el precio de venta, el cual incluye el descuento inicial. Para saber cuánto debe pagar por un libro cuyo precio original es de $ 50, Juan efectúa el siguiente procedimiento:",
-		"**Paso 1.** Multiplica el precio original del libro por 9.",
-		"**Paso 2.** Divide el resultado del paso 1 entre 10.",
-		"**Paso 3.** Multiplica el resultado del paso 2 por 10.",
-		"**Paso 4.** Divide el resultado del paso 3 entre 100."
+		"\t**Paso 1.** Multiplica el precio original del libro por 9.",
+		"\t**Paso 2.** Divide el resultado del paso 1 entre 10.",
+		"\t**Paso 3.** Multiplica el resultado del paso 2 por 10.",
+		"\t**Paso 4.** Divide el resultado del paso 3 entre 100."
 	],
 	"pregunta": "¿En cuál paso del procedimiento hay un error?",
 	"respuestas": [

@@ -2,8 +2,8 @@
 	"id": "mesas-sillas",
 	"contexto": [
 		"En una tienda se venden mesas a \\$ 40.000 y sillas a \\$ 20.000. El dueño de la tienda olvidó registrar la cantidad total de mesas y sillas que se vendieron, pero sabe que los ingresos por ventas del mes fueron de \\$ 1.400.000 y que se vendieron 3 veces más sillas que mesas. Para determinar la cantidad vendida de cada artículo, siendo $M$ la cantidad de mesas y $S$ la de sillas vendidas, representó la información con las siguientes ecuaciones:",
-		"**Ecuación 1.** $40.000M+20.000S=1.400.000$",
-		"$M=3S$"
+		"\t**Ecuación 1.** $40.000M+20.000S=1.400.000$",
+		"\t**Ecuación 2.** $M=3S$"
 	],
 	"pregunta": "¿Las ecuaciones representan correctamente la situación?",
 	"respuestas": [

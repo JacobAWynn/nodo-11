@@ -2,10 +2,10 @@
 	"id": "contrasena-restricciones",
 	"contexto": [
 		"Un sistema de información requiere que los usuarios ingresen una contraseña de solo tres caracteres de entre las 26 letras posibles, en minúscula o mayúscula y los 10 dígitos del 0 al 9. Un ingeniero propone las siguientes posibles restricciones para la contraseña:",
-		"**Restricción $R1$**: utilizar tres dígitos cualesquiera.",
-		"**Restricción $R2$**: utilizar tres dígitos distintos.",
-		"**Restricción $R3$**: utilizar una letra mayúscula, luego una minúscula y al final un dígito.",
-		"**Restricción $R4$**: utilizar una letra cualquiera, mayúscula o minúscula, y luego dos dígitos."
+		"\t**Restricción $R1$**: utilizar tres dígitos cualesquiera.",
+		"\t**Restricción $R2$**: utilizar tres dígitos distintos.",
+		"\t**Restricción $R3$**: utilizar una letra mayúscula, luego una minúscula y al final un dígito.",
+		"\t**Restricción $R4$**: utilizar una letra cualquiera, mayúscula o minúscula, y luego dos dígitos."
 	],
 	"pregunta": "Si se calcula el número de posibles contraseñas de acuerdo con cada una de las restricciones, ¿cuál es el orden de las restricciones, de menor a mayor, según el número de posibles contraseñas?",
 	"respuestas": [

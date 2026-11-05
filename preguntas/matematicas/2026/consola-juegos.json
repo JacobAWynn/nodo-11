@@ -2,13 +2,13 @@
 	"id": "consola-juegos",
 	"contexto": [
 		"En una feria, un niño recibe como premio una consola de videojuegos si gana en cada uno de los siguientes juegos:",
-		"**Juego 1.** Gana si al lanzar un dado obtiene un número par (la probabilidad de ganar es de $\\frac{1}{2}$).",
-		"**Juego 2.** Gana si logra sacar la única pelota amarilla que hay en una bolsa que contiene 6 pelotas en total (la probabilidad de ganar es de $\\frac{1}{6}$).",
+		"\t**Juego 1.** Gana si al lanzar un dado obtiene un número par (la probabilidad de ganar es de $\\frac{1}{2}$).",
+		"\t**Juego 2.** Gana si logra sacar la única pelota amarilla que hay en una bolsa que contiene 6 pelotas en total (la probabilidad de ganar es de $\\frac{1}{6}$).",
 		"Para hallar la probabilidad de ganar la consola de videojuegos se proponen los siguientes procedimientos:",
-		"**Procedimiento 1.** Sumar las probabilidades de ganar en los dos juegos.",
-		"**Procedimiento 2.** Multiplicar las probabilidades de ganar en los dos juegos.",
-		"**Procedimiento 3.** Restarle a 1 la probabilidad de perder en al menos uno de los dos juegos.",
-		"**Procedimiento 4.** Restarle a 1 la probabilidad de perder exactamente en un juego."
+		"\t**Procedimiento 1.** Sumar las probabilidades de ganar en los dos juegos.",
+		"\t**Procedimiento 2.** Multiplicar las probabilidades de ganar en los dos juegos.",
+		"\t**Procedimiento 3.** Restarle a 1 la probabilidad de perder en al menos uno de los dos juegos.",
+		"\t**Procedimiento 4.** Restarle a 1 la probabilidad de perder exactamente en un juego."
 	],
 	"pregunta": "¿Cuáles de los anteriores procedimientos permiten hallar la probabilidad de ganar la consola de videojuegos?",
 	"respuestas": [
