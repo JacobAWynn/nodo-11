@@ -1,0 +1,11 @@
+{
+	"id": "decibelios",
+	"pregunta": "Una regla usada en física indica que, para aumentar **el nivel de intensidad** del sonido en 10 dB (dB es decibelios, la unidad de medida del nivel de intensidad del sonido), es necesario que **la intensidad medida** se multiplique por 10. Ramiro es el encargado de aumentar en 20 dB la medida del nivel de intensidad del sistema de sonido de un evento y, según su interpretación de la regla, multiplica por 20 la intensidad actual del sistema. ¿Es correcta su interpretación?",
+	"respuestas": [
+		"No, porque la regla no considera aumentos de 20 dB, solamente de 10 dB; no hay consideraciones para aumentos mayores.",
+		"Sí, porque la regla presentada indica que para aumentar en x unidades el nivel de la medida de intensidad se agrega x a la intensidad.",
+		"No, porque aumentar 20 dB equivale a aumentar 10 dB dos veces, es decir, multiplicar por 10 la intensidad dos veces; en total, multiplicar por 100.",
+		"Sí, porque el resultado de multiplicar dos veces por 10 la intensidad es multiplicarla por 20; así, se ahorra un paso y obtiene el resultado correcto."
+	],
+	"respuesta-correcta": 2
+}

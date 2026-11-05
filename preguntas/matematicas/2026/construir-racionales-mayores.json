@@ -1,0 +1,11 @@
+{
+	"id": "construir-racionales-mayores",
+	"pregunta": "Se puede encontrar números racionales mayores que un número entero $k$, de manera que sean cada vez más cercanos a él, calculando $k+\\frac{1}{j}$ (con $j$ entero positivo). Cuanto más grande sea $j$, más cercano a $k$ será el racional construido. ¿Cuántos números racionales se pueden construir cercanos a $k$ y menores que $k+\\{1}{11}$?",
+	"respuestas": [
+		"10, que es la cantidad de racionales menores que 11.",
+		"Una cantidad infinita, pues existen infinitos números enteros mayores que 11.",
+		"11, que es el número que equivale en este caso a $j$",
+		"Uno, pues el racional más cercano a $k$ se halla con $j$ = 10, es decir, con $k$ + 0,1."
+	],
+	"respuesta-correcta": 1
+}

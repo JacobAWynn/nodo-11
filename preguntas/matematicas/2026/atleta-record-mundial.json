@@ -1,0 +1,11 @@
+{
+	"id": "atleta-record-mundial",
+	"pregunta": "Una prueba atlética tiene un récord mundial de 10,49 segundos y un récord olímpico de 10,50 segundos. ¿Es posible que un atleta registre un tiempo, en el mismo tipo de prueba, que rompa el récord olímpico pero no el mundial?",
+	"respuestas": [
+		"Sí, porque puede registrar, por ejemplo, un tiempo de 10,497 segundos, que está entre los dos tiempos récord.",
+		"Sí, porque puede registrar un tiempo menor que 10,4 y marcaría un nuevo récord.",
+		"No, porque no existe un registro posible entre los dos tiempos récord.",
+		"No, porque cualquier registro menor que el récord olímpico va a ser menor que el récord mundial."
+	],
+	"respuesta-correcta": 0
+}

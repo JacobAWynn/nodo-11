@@ -1,0 +1,11 @@
+{
+	"id": "rifa-boleta",
+	"pregunta": "Entre los 16 estudiantes de un salón de clases se va a rifar una boleta para ingresar a un parque de diversiones. Cada estudiante debe escoger un número del 3 al 18. El sorteo se efectúa de la siguiente manera: se depositan 6 balotas en una urna, cada una numerada del 1 al 6; se extrae una balota, se mira el número y se vuelve a depositar en la urna. El experimento se repite dos veces más. La suma de los tres puntajes obtenidos determina el número ganador de la rifa. Si en la primera extracción del sorteo se obtuvo 2, ¿por qué es más probable que el estudiante que escogió el número 10 gane la rifa a que la gane el estudiante con el número 7?",
+	"respuestas": [
+		"Porque al ser mayor el número escogido, es mayor la probabilidad de ganar.",
+		"Porque el primer estudiante tiene una posibilidad más de ganar que el segundo.",
+		"Porque es más probable seguir obteniendo números pares.",
+		"Porque es mayor la diferencia entre 10 y 18 que entre 2 y 7."
+	],
+	"respuesta-correcta": 1
+}

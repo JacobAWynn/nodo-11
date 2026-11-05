@@ -1,0 +1,18 @@
+{
+	"id": "encerrar-terreno-triangular",
+	"contexto": [
+		"Un terreno con forma triangular se debe encerrar, cumpliendo con los siguientes requerimientos:",
+		"**Requerimiento 1.** Uno de sus ángulos interiores debe ser de 90°.",
+		"**Requerimiento 2.** Dos lados deben medir 7 metros y el otro debe medir 18 metros.",
+		"**Requerimiento 3.** Uno de sus ángulos interiores debe ser menor que 45°.",
+		"**Requerimiento 4.** La suma de sus ángulos interiores debe ser de 180°."
+	],
+	"pregunta": "¿Cuál de los requerimientos es **imposible** de cumplir?",
+	"respuestas": [
+		"Requerimiento 1.",
+		"Requerimiento 2.",
+		"Requerimiento 3.",
+		"Requerimiento 4."
+	],
+	"respuesta-correcta": 1
+}

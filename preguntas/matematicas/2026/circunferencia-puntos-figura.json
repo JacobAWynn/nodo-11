@@ -1,0 +1,12 @@
+{
+	"id": "circunferencia-puntos-figura",
+	"contexto": "Sobre una circunferencia de centro $O$ se localizan dos puntos $P$ y $P'$ diferentes.",
+	"pregunta": "De las siguientes, ¿cuál figura **NO** puede resultar al unir entre sí los tres puntos $P$, $P'$ y $O$?",
+	"respuestas": [
+		"Un triángulo isósceles.",
+		"Un radio de la circunferencia.",
+		"Un triángulo equilátero.",
+		"Un diámetro de la circunferencia."
+	],
+	"respuesta-correcta": 1
+}

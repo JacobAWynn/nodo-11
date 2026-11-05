@@ -1,0 +1,11 @@
+{
+	"id": "decibeles-intensidad-oido",
+	"pregunta": "La expresión $10^3=\\frac{I}{I_O}$ relaciona la sonoridad de un sonido de 3O decibeles con su intensidad ($I$) y la menor intensidad ($I_O$) que percibe el oído humano. ¿Cuántas veces es el valor de $I$ respecto a $I_O$?",
+	"respuestas": [
+		"Una milésima.",
+		"Un tercio.",
+		"Tres veces.",
+		"Mil veces."
+	],
+	"respuesta-correcta": 3
+}

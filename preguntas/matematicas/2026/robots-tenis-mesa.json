@@ -1,0 +1,11 @@
+{
+	"id": "robots-tenis-mesa",
+	"pregunta": "En una feria robótica, el robot $P$ y el robot $Q$ disputan un juego de tenis de mesa. En el momento que el marcador se encuentra 7 a 2 a favor del robot $P$, estos se reprograman de tal forma que por cada 2 puntos que anota el robot $P$, el robot $Q$ anota 3. ¿Cuál de las siguientes ecuaciones permite determinar cuándo igualará en puntos el robot $Q$ al robot $P$?",
+	"respuestas": [
+		"$\\frac{3}{2}x=0$. Donde $x$ es la cantidad de puntos que anotará $P$.",
+		"$7+x=\\frac{3}{2}x+2$. Donde $x$ es la cantidad de puntos que anotará $P$.",
+		"$7+3x=2+2y$. Donde $x$ es la cantidad de puntos que anotará $P$, y $y$ es la cantidad de puntos que anotará $Q$.",
+		"$x+y=7+2$. Donde $x$ es la cantidad de puntos que anotará $P$, y $y$ es la cantidad de puntos que anotará $Q$."
+	],
+	"respuesta-correcta": 1
+}

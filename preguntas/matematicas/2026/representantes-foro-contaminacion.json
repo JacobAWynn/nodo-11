@@ -1,0 +1,11 @@
+{
+	"id": "representantes-foro-contaminacion",
+	"pregunta": "Un colegio necesita enviar 5 estudiantes como representantes a un foro sobre la contaminación del medio ambiente. Se decidió que 2 estudiantes sean de grado décimo y 3 de grado undécimo. En décimo hay 5 estudiantes preparados para el foro y en undécimo hay 4. ¿Cuántos grupos diferentes pueden formarse para enviar al foro?",
+	"respuestas": [
+		"9",
+		"14",
+		"20",
+		"40"
+	],
+	"respuesta-correcta": 3
+}

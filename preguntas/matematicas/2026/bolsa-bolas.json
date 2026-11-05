@@ -1,0 +1,11 @@
+{
+	"id": "bolsa-bolas",
+	"pregunta": "En una bolsa hay 3 bolas rojas, 3 negras y 12 blancas. Una persona afirma que al sacar una bola al azar, los tres colores tienen la misma probabilidad de salir. ¿Es verdadera esta afirmación?",
+	"respuestas": [
+		"Sí, pues el número de bolas de cada color no importa.",
+		"No, pues no se sabe el número total de bolas en la bolsa.",
+		"No, pues hay más bolas de un color que de los otros dos.",
+		"Sí, pues las bolas están repartidas de igual manera."
+	],
+	"respuesta-correcta": 2
+}

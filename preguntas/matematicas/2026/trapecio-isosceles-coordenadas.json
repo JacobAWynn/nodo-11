@@ -1,0 +1,15 @@
+{
+	"id": "trapecio-isosceles-coordenadas",
+	"contexto": [
+		"Un *trapecio isósceles* es un trapecio cuyos lados no paralelos son congruentes.",
+		"En un plano cartesiano se dibuja un trapecio isósceles de modo que el eje $y$ divide al trapecio en dos figuras iguales."
+	],
+	"pregunta": "Si las coordenadas de dos de los vértices del trapecio son (−4, 2) y (−2, 8), ¿cuáles son las coordenadas de los otros dos vértices?",
+	"respuestas": [
+		"(8, 2) y (2, 4).",
+		"(2, 8) y (4, 2).",
+		"(−2, –4) y (−8, −2).",
+		"(−4, −2) y (−2, −8)."
+	],
+	"respuesta-correcta": 3
+}

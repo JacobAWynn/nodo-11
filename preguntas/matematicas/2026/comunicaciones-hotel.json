@@ -1,0 +1,11 @@
+{
+	"id": "comunicaciones-hotel",
+	"pregunta": "El sistema de comunicaciones de un hotel utiliza los dígitos 2, 3, 4 y 5 para asignar un número de extensión telefónica de 4 dígitos diferentes a cada habitación. ¿Cuántas habitaciones del hotel pueden tener extensión telefónica?",
+	"respuestas": [
+		"24",
+		"56",
+		"120",
+		"256"
+	],
+	"respuesta-correcta": 3
+}
